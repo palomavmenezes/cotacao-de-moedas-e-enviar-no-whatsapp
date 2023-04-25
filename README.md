@@ -15,7 +15,7 @@ O arquivo está em JavaScript e para utilizar os dados de API, precisa gerar uma
 Após gerar a API, crie um arquivo .env e coloque como valor da variável ACCESS_KEY
 
 Para o número do Whatsapp, faça a mesma coisa no arquivo .env<br>
-Crie e insira o nome da variável e atribua o valor com o número do whatsapp.
+Insira o nome da variável e atribua o valor com o número do whatsapp.
 
 Exemplo: 
 WHATSAPP_NUMBER=5521900000000
