@@ -11,10 +11,10 @@ npm install
 <b><i>dotenv<br></i></b>
 
 # Utilizando o dotenv para dados sensíveis
-O arquivo está em JavaScript e para utilizar os dados de API, precisa gerar uma chave de API gratuita no site https://apilayer.com/
+O arquivo está em JavaScript e para utilizar os dados de API, precisa gerar uma chave de API gratuita no site https://apilayer.com/<br>
 Após gerar a API, crie um arquivo .env e coloque como valor da variável ACCESS_KEY
 
-Para o número do Whatsapp, faça a mesma coisa no arquivo .env
+Para o número do Whatsapp, faça a mesma coisa no arquivo .env<br>
 Crie insira o nome da variável e atribua o valor.
 
 Exemplo: 
